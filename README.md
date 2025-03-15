@@ -10,7 +10,7 @@ Starting as an **Associate Software Engineer** at ENS Enterprises, I have grown 
 💻 **Tech Stack & Expertise**  
 - **Backend:** PHP (Laravel, CodeIgniter), CI/CD  
 - **Frontend:** React.js, JavaScript, Tailwind CSS, CSS  
-- **CMS & Platforms:** WordPress, Magento  
+- **CMS & Platforms:** WordPress, WooCommerce, Drupal, Joomla  
 - **Project Management:** Agile, Scrum, Team Leadership   
 
 📫 **Let's Connect!**  
